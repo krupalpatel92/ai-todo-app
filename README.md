@@ -203,7 +203,3 @@ This project follows strict code quality standards:
 # Example:
 git commit -m "feat: add voice command support for task creation"
 ```
-
-## License
-
-This project is created for Paidy's technical assessment.
