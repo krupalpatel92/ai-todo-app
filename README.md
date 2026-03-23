@@ -1,4 +1,4 @@
-# Secured TODO App with Local Authentication and AI Voice Agent
+# Secured TODO App with Local Authentication and AI Voice Agent (This is AI Vibe Coding Experiment)
 
 A production-grade React Native TODO application with biometric authentication, built with Expo for Paidy's technical assessment.
 
